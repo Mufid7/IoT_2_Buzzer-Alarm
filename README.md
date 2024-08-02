@@ -8,7 +8,7 @@ Proyek ini menggunakan Arduino dan buzzer piezo untuk menghasilkan nada dengan f
 - Buzzer Piezo
 
 ## Skematik
-![Schematic Diagram](link-ke-gambar-schematic)  <!-- Jika ada gambar skematik dari Tinkercad -->
+![Schematic Diagram](https://www.tinkercad.com/things/cXhgbz1ButX-2buzzer)  <!-- Jika ada gambar skematik dari Tinkercad -->
 
 ## Kode
 ```cpp
